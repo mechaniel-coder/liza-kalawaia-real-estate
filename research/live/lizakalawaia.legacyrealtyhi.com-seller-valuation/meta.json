@@ -1,0 +1,12 @@
+﻿{
+    "scrapedAt":  "2026-07-21T00:58:50.6355781-07:00",
+    "title":  "Your home estimate",
+    "url":  "https://lizakalawaia.legacyrealtyhi.com/seller/valuation/",
+    "files":  {
+                  "html":  "page.html",
+                  "links":  "links.json",
+                  "raw":  "page.raw",
+                  "text":  "page.txt"
+              },
+    "httpStatus":  "200"
+}

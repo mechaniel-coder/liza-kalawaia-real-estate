@@ -1,0 +1,50 @@
+﻿[
+    {
+        "path":  "about-me/",
+        "stamp":  null,
+        "status":  null,
+        "original":  "https://www.homesbylizak.com/about-me/"
+    },
+    {
+        "path":  "buyers/",
+        "stamp":  null,
+        "status":  null,
+        "original":  "https://www.homesbylizak.com/buyers/"
+    },
+    {
+        "path":  "sellers/",
+        "stamp":  null,
+        "status":  null,
+        "original":  "https://www.homesbylizak.com/sellers/"
+    },
+    {
+        "path":  "relocation/",
+        "stamp":  null,
+        "status":  null,
+        "original":  "https://www.homesbylizak.com/relocation/"
+    },
+    {
+        "path":  "contact-us/",
+        "stamp":  null,
+        "status":  null,
+        "original":  "https://www.homesbylizak.com/contact-us/"
+    },
+    {
+        "path":  "financing-1/",
+        "stamp":  null,
+        "status":  null,
+        "original":  "https://www.homesbylizak.com/financing-1/"
+    },
+    {
+        "path":  "featured-listings/",
+        "stamp":  null,
+        "status":  null,
+        "original":  "https://www.homesbylizak.com/featured-listings/"
+    },
+    {
+        "path":  "property-search/",
+        "stamp":  null,
+        "status":  null,
+        "original":  "https://www.homesbylizak.com/property-search/"
+    }
+]

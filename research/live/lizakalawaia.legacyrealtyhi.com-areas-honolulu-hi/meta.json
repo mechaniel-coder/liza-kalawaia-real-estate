@@ -1,0 +1,12 @@
+﻿{
+    "scrapedAt":  "2026-07-21T00:58:58.1855248-07:00",
+    "title":  "Honolulu Real Estate",
+    "url":  "https://lizakalawaia.legacyrealtyhi.com/areas/honolulu/hi",
+    "files":  {
+                  "html":  "page.html",
+                  "links":  "links.json",
+                  "raw":  "page.raw",
+                  "text":  "page.txt"
+              },
+    "httpStatus":  "200"
+}

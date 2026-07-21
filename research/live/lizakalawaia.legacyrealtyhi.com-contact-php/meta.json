@@ -1,0 +1,12 @@
+﻿{
+    "scrapedAt":  "2026-07-21T00:56:05.2145752-07:00",
+    "title":  "Contact Me",
+    "url":  "https://lizakalawaia.legacyrealtyhi.com/contact.php",
+    "files":  {
+                  "html":  "page.html",
+                  "links":  "links.json",
+                  "raw":  "page.raw",
+                  "text":  "page.txt"
+              },
+    "httpStatus":  "200"
+}

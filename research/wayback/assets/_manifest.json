@@ -1,0 +1,233 @@
+﻿[
+    {
+        "ok":  true,
+        "code":  "200",
+        "bytes":  13423,
+        "file":  "wp-content-aios-initial-setup-cf7-formdata-compatibility-scripts.js",
+        "orig":  "https://www.homesbylizak.com/wp-content/aios-initial-setup-cf7-formdata-compatibility/scripts.js"
+    },
+    {
+        "ok":  true,
+        "code":  "200",
+        "bytes":  1112,
+        "file":  "wp-content-plugins-aios-initial-setup-app-widgets-mobile-header-views-lib-js-aios-mobile-header.js",
+        "orig":  "https://www.homesbylizak.com/wp-content/plugins/aios-initial-setup/app/widgets/mobile-header/views/lib/js/aios-mobile-header.js"
+    },
+    {
+        "ok":  true,
+        "code":  "200",
+        "bytes":  32998,
+        "file":  "wp-content-plugins-aios-slider-assets-js-vendor-splide-extensions-splide-extension-video-v0.8.0.min.js",
+        "orig":  "https://www.homesbylizak.com/wp-content/plugins/aios-slider/assets/js/vendor/splide-extensions/splide-extension-video-v0.8.0.min.js"
+    },
+    {
+        "ok":  true,
+        "code":  "200",
+        "bytes":  29672,
+        "file":  "wp-content-plugins-aios-slider-assets-js-vendor-splide-splide-v4.0.7.min.js",
+        "orig":  "https://www.homesbylizak.com/wp-content/plugins/aios-slider/assets/js/vendor/splide/splide-v4.0.7.min.js"
+    },
+    {
+        "ok":  true,
+        "code":  "200",
+        "bytes":  20514,
+        "file":  "wp-content-plugins-aios-slider-assets-js-vendor-vimeo-player-v2.17.1.min.js",
+        "orig":  "https://www.homesbylizak.com/wp-content/plugins/aios-slider/assets/js/vendor/vimeo/player-v2.17.1.min.js"
+    },
+    {
+        "ok":  true,
+        "code":  "200",
+        "bytes":  5313,
+        "file":  "wp-content-plugins-pojo-accessibility-assets-js-app.min.js",
+        "orig":  "https://www.homesbylizak.com/wp-content/plugins/pojo-accessibility/assets/js/app.min.js"
+    },
+    {
+        "ok":  true,
+        "code":  "200",
+        "bytes":  5752,
+        "file":  "wp-content-themes-bobbibevis-assets-images-site-logo.png",
+        "orig":  "https://www.homesbylizak.com/wp-content/themes/bobbibevis/assets/images/site-logo.png"
+    },
+    {
+        "ok":  true,
+        "code":  "200",
+        "bytes":  7614,
+        "file":  "wp-content-themes-bobbibevis-assets-js-scripts.js",
+        "orig":  "https://www.homesbylizak.com/wp-content/themes/bobbibevis/assets/js/scripts.js"
+    },
+    {
+        "ok":  true,
+        "code":  "200",
+        "bytes":  962490,
+        "file":  "wp-content-uploads-2024-12-slide-new.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2024/12/slide-new.jpg"
+    },
+    {
+        "ok":  true,
+        "code":  "200",
+        "bytes":  4307,
+        "file":  "wp-includes-js-dist-hooks.min.js",
+        "orig":  "https://www.homesbylizak.com/wp-includes/js/dist/hooks.min.js"
+    },
+    {
+        "ok":  true,
+        "code":  "200",
+        "bytes":  9141,
+        "file":  "wp-includes-js-dist-i18n.min.js",
+        "orig":  "https://www.homesbylizak.com/wp-includes/js/dist/i18n.min.js"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142246,
+        "file":  "wp-content-uploads-2025-01-liza.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/liza.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142296,
+        "file":  "wp-content-themes-bobbibevis-assets-images-cta-01.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/themes/bobbibevis/assets/images/cta-01.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142295,
+        "file":  "wp-content-themes-bobbibevis-assets-images-cta-02.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/themes/bobbibevis/assets/images/cta-02.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142295,
+        "file":  "wp-content-themes-bobbibevis-assets-images-cta-03.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/themes/bobbibevis/assets/images/cta-03.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142295,
+        "file":  "wp-content-themes-bobbibevis-assets-images-cta-04.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/themes/bobbibevis/assets/images/cta-04.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142249,
+        "file":  "wp-content-uploads-2024-12-favicon.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2024/12/favicon.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142256,
+        "file":  "wp-content-uploads-2024-12-favicon-150x150.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2024/12/favicon-150x150.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142248,
+        "file":  "wp-content-uploads-2025-01-Artesia.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/Artesia.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142253,
+        "file":  "wp-content-uploads-2025-01-Burson-Ranch.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/Burson-Ranch.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142250,
+        "file":  "wp-content-uploads-2025-01-Henderson.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/Henderson.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142259,
+        "file":  "wp-content-uploads-2025-01-Henderson-1024x540.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/Henderson-1024x540.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "000",
+        "bytes":  0,
+        "file":  "wp-content-uploads-2025-01-Lake-Las-Vegas.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/Lake-Las-Vegas.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "000",
+        "bytes":  0,
+        "file":  "wp-content-uploads-2025-01-Lake-Las-Vegas-1024x689.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/Lake-Las-Vegas-1024x689.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "000",
+        "bytes":  0,
+        "file":  "wp-content-uploads-2025-01-Mountain-Falls.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/Mountain-Falls.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142254,
+        "file":  "wp-content-uploads-2025-01-nevada-realty.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/nevada-realty.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142256,
+        "file":  "wp-content-uploads-2025-01-North-Las-Vegas.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/North-Las-Vegas.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142266,
+        "file":  "wp-content-uploads-2025-01-North-Las-Vegas-1024x614.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/North-Las-Vegas-1024x614.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142259,
+        "file":  "wp-content-uploads-2025-01-Southern-Highlands.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/Southern-Highlands.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142268,
+        "file":  "wp-content-uploads-2025-01-Southern-Highlands-1024x733.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/Southern-Highlands-1024x733.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "404",
+        "bytes":  142253,
+        "file":  "wp-content-uploads-2025-01-Summerlin-n.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/Summerlin-n.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "000",
+        "bytes":  0,
+        "file":  "wp-content-uploads-2025-01-Summerlin-n-1024x683.jpg",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/01/Summerlin-n-1024x683.jpg"
+    },
+    {
+        "ok":  false,
+        "code":  "000",
+        "bytes":  0,
+        "file":  "wp-content-uploads-2025-02-Screenshot-2025-02-13-033314.png",
+        "orig":  "https://www.homesbylizak.com/wp-content/uploads/2025/02/Screenshot-2025-02-13-033314.png"
+    }
+]

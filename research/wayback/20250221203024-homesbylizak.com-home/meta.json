@@ -1,0 +1,15 @@
+﻿{
+    "scrapedAt":  "2026-07-21T00:43:43.0230184-07:00",
+    "inputUrl":  "https://web.archive.org/web/20250221203024/https://www.homesbylizak.com/",
+    "idUrl":  "https://web.archive.org/web/20250221203024id_/https://www.homesbylizak.com/",
+    "originalUrl":  "https://www.homesbylizak.com/",
+    "waybackStamp":  "20250221203024",
+    "httpStatus":  "200",
+    "title":  "Liza Kalawaia - Your Trusted Realtor in Pahrump and Las Vegas Since 2018",
+    "files":  {
+                  "html":  "page.html",
+                  "links":  "links.json",
+                  "raw":  "page.raw",
+                  "text":  "page.txt"
+              }
+}

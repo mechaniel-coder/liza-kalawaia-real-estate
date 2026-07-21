@@ -1,0 +1,13 @@
+# Duplicate/noisy research scrapes — prefer plaintext + discovery brief
+_research-*-decoded.html
+_research-legacy-*.html
+_research-homesbylizak-wayback.html
+_research-nv-about.html
+_research-nv-about.gz
+_research-nv-excerpt.txt
+_research-hi-agents.html
+_research-hi-hiring.html
+_research-hi-rec-strings.txt
+research/wayback/**/page.raw
+research/wayback/**/page.html
+graphify-out/

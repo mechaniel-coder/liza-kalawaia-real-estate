@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Netlify / local tooling
+.netlify/
+.cursor/skills/
+
+# Graphify generated
+graphify-out/
+
+# 3D binaries (regenerate or drop manually)
+media/**/*.glb
+media/_download-manifest.json
+
+# One-off research dumps at repo root (canonical scrapes live under research/)
+_research-*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.env
+.env.*
+!.env.example

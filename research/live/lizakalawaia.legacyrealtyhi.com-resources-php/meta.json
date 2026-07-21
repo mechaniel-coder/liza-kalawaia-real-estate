@@ -1,0 +1,12 @@
+﻿{
+    "scrapedAt":  "2026-07-21T00:59:46.8226965-07:00",
+    "title":  "Legacy Realty LLC Resource List",
+    "url":  "https://lizakalawaia.legacyrealtyhi.com/resources.php",
+    "files":  {
+                  "html":  "page.html",
+                  "links":  "links.json",
+                  "raw":  "page.raw",
+                  "text":  "page.txt"
+              },
+    "httpStatus":  "200"
+}
